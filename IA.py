@@ -20,10 +20,10 @@ import matplotlib.pyplot as barra
 import matplotlib.pyplot as pie
 
 
-consumer_key = "Jv0DKLySkVhApn5wqWncwYdXA"
-consumer_secret = "6l9mcrFK2LOqwtYLPv44f8lRouNErwRMf0amY1F9139qcoXyQB"
-access_token = "1327697310852263936-iY1jE227HA8PReLGtdMjD5v2yj6IME"
-access_token_secret = "zsl6wQjuOItu3MlUGpjjmQZVzYCJsUzynzWSEhMBpJS3P"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 palabraClave = "veneco"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
